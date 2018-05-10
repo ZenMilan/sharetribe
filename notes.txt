@@ -2,3 +2,4 @@ Links below can be helpfull on understanding sharetribe.
 
 - http://publish.yexperiment.com/post/156715320289/sharetribe-with-paypal-payments-the-lost
 - https://help.sharetribe.com/subscriptions/answers/differences-between-the-hosted-and-open-source-versions-of-sharetribe
+- https://medium.com/bettersharing/why-sharetribe-is-open-source-9462384a2f81
